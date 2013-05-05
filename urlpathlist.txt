@@ -1,0 +1,8 @@
+/
+/adsense
+/analytics
+/test
+/#!hashbang/test
+/foo
+/bar/
+/foo/bar
